@@ -1,0 +1,65 @@
+﻿@model IEnumerable<TiendaJuegos.Models.DetallesPedido>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+<h1>Facturas</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PedidoID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductoID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioUnitario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PedidoID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductoID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioUnitario)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.DetalleID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.DetalleID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DetalleID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+}
+else
+{
+    <h1> Acceso restringido</h1>
+}

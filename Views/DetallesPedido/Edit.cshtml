@@ -1,0 +1,60 @@
+﻿@model TiendaJuegos.Models.DetallesPedido
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (SignInManager.IsSignedIn(User))
+{
+
+<h1>Edit</h1>
+
+<h4>DetallesPedidos</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="DetalleID" />
+            <div class="form-group">
+                <label asp-for="PedidoID" class="control-label"></label>
+                <input asp-for="PedidoID" class="form-control" />
+                <span asp-validation-for="PedidoID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductoID" class="control-label"></label>
+                <input asp-for="ProductoID" class="form-control" />
+                <span asp-validation-for="ProductoID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cantidad" class="control-label"></label>
+                <input asp-for="Cantidad" class="form-control" />
+                <span asp-validation-for="Cantidad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PrecioUnitario" class="control-label"></label>
+                <input asp-for="PrecioUnitario" class="form-control" />
+                <span asp-validation-for="PrecioUnitario" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+}
+else
+{
+    <h1> Acceso restringido</h1>
+}
