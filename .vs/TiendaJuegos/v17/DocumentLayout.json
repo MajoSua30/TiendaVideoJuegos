@@ -1,25 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\",
+  "WorkspaceRootPath": "C:\\github\\TiendaVideoJuegos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\tiendavideojuegos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\tiendavideojuegos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\tiendavideojuegos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\tiendavideojuegos\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\users\\maria\\onedrive\\documentos\\github\\tiendavideojuegos\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|c:\\github\\tiendavideojuegos\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7C5C8B7E-C457-47DB-9958-5FE41D9D0436}|TiendaJuegos.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -30,72 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-21T19:13:33.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "Controllers\\RegistroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:43.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Usuarios\\Index.cshtml",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\Views\\Usuarios\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Usuarios\\Index.cshtml",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\Views\\Usuarios\\Index.cshtml",
               "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T02:01:18.712Z"
+              "WhenOpened": "2024-04-21T02:01:18.712Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Productos\\Index.cshtml",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\Views\\Productos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\Views\\Productos\\Index.cshtml",
               "RelativeToolTip": "Views\\Productos\\Index.cshtml",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-21T01:57:37.71Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-21T01:55:59.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADEAAAAdAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwDQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-21T01:55:13.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\github\\TiendaVideoJuegos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\github\\TiendaVideoJuegos\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-21T01:54:56.748Z",
               "EditorCaption": ""
