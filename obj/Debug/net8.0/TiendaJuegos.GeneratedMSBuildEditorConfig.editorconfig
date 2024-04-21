@@ -17,147 +17,147 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TiendaJuegos
 build_property.RootNamespace = TiendaJuegos
-build_property.ProjectDir = C:\Users\Asus\OneDrive\Escritorio\Auditoria de Sistemas\TiendaJuegos\
+build_property.ProjectDir = C:\Users\maria\OneDrive\Documentos\GitHub\TiendaVideoJuegos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Asus\OneDrive\Escritorio\Auditoria de Sistemas\TiendaJuegos
+build_property.MSBuildProjectDirectory = C:\Users\maria\OneDrive\Documentos\GitHub\TiendaVideoJuegos
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/CarritoCompras/Create.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/CarritoCompras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b0NvbXByYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/CarritoCompras/Delete.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/CarritoCompras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b0NvbXByYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/CarritoCompras/Details.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/CarritoCompras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b0NvbXByYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/CarritoCompras/Edit.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/CarritoCompras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b0NvbXByYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/CarritoCompras/Index.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/CarritoCompras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2Fycml0b0NvbXByYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/DetallesPedido/Create.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/DetallesPedido/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNQZWRpZG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/DetallesPedido/Delete.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/DetallesPedido/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNQZWRpZG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/DetallesPedido/Details.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/DetallesPedido/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNQZWRpZG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/DetallesPedido/Edit.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/DetallesPedido/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNQZWRpZG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/DetallesPedido/Index.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/DetallesPedido/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXNQZWRpZG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Home/Index.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Home/Privacy.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Pedidos/Create.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Pedidos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Pedidos/Delete.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Pedidos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Pedidos/Details.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Pedidos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Pedidos/Edit.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Pedidos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Pedidos/Index.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Pedidos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Productos/Create.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Productos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Productos/Delete.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Productos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Productos/Details.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Productos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Productos/Edit.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Productos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Productos/Index.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Shared/Error.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Usuarios/Create.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Usuarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Usuarios/Delete.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Usuarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Usuarios/Details.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Usuarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Usuarios/Edit.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Usuarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Usuarios/Index.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Usuarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/_ViewImports.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/_ViewStart.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Asus/OneDrive/Escritorio/Auditoria de Sistemas/TiendaJuegos/Views/Shared/_Layout.cshtml]
+[C:/Users/maria/OneDrive/Documentos/GitHub/TiendaVideoJuegos/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-47xnn5dkel

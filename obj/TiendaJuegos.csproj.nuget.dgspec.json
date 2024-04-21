@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\Escritorio\\Auditoria de Sistemas\\TiendaJuegos\\TiendaJuegos.csproj": {}
+    "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\TiendaJuegos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\Escritorio\\Auditoria de Sistemas\\TiendaJuegos\\TiendaJuegos.csproj": {
+    "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\TiendaJuegos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Escritorio\\Auditoria de Sistemas\\TiendaJuegos\\TiendaJuegos.csproj",
+        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\TiendaJuegos.csproj",
         "projectName": "TiendaJuegos",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\Escritorio\\Auditoria de Sistemas\\TiendaJuegos\\TiendaJuegos.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\Escritorio\\Auditoria de Sistemas\\TiendaJuegos\\obj\\",
+        "projectPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\TiendaJuegos.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
