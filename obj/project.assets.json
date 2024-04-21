@@ -8285,19 +8285,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maria\\.nuget\\packages\\": {}
+    "C:\\Users\\axelc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\TiendaJuegos.csproj",
+      "projectUniqueName": "C:\\github\\TiendaVideoJuegos\\TiendaJuegos.csproj",
       "projectName": "TiendaJuegos",
-      "projectPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\TiendaJuegos.csproj",
-      "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\TiendaVideoJuegos\\obj\\",
+      "projectPath": "C:\\github\\TiendaVideoJuegos\\TiendaJuegos.csproj",
+      "packagesPath": "C:\\Users\\axelc\\.nuget\\packages\\",
+      "outputPath": "C:\\github\\TiendaVideoJuegos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\axelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8372,7 +8372,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
