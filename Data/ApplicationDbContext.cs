@@ -15,5 +15,7 @@ namespace TiendaJuegos.Data
         public DbSet<TiendaJuegos.Models.Pedidos> Pedidos { get; set; } = default!;
         public DbSet<TiendaJuegos.Models.DetallesPedido> DetallesPedido { get; set; } = default!;
         public DbSet<TiendaJuegos.Models.CarritoCompras> CarritoCompras { get; set; } = default!;
+
+
     }
 }

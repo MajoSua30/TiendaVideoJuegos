@@ -1,0 +1,20 @@
+﻿@model TiendaJuegos.Models.LoginISViewModel
+
+<form asp-controller="Registro" asp-action="LoginIS" method="post">
+    <h2>Iniciar Sesión</h2>
+    <div>
+        <label for="NombreUsuario">Correo Electronico:</label>
+        <input type="text" class="form-control" id="NombreUsuario" name="NombreUsuario" />
+    </div>
+    <div>
+        <label for="Contraseña">Contraseña:</label>
+        <input type="password" class="form-control" id="Contraseña" name="Contraseña" />
+    </div>
+    <br />
+    <div>
+        <input type="submit" value="Iniciar Sesión" />
+    </div>
+    <br />
+    <h2>¿No estás registrado?</h2>
+    <a asp-controller="Registro" asp-action="Register" class="btn btn-primary">Registrar</a>
+</form>
